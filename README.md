@@ -1,16 +1,25 @@
-### Hi there 👋
+# CHRISTIAN  BULLA ROMERO
 
-<!--
-**cbulla22/cbulla22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _**Developer student**, learning **JavaScript**; Currently cursing a training program at **Universidad Distrital** and complementing with a bootcamp with [**Undefined Academy**](https://undefinedshell.notion.site) ._
 
-Here are some ideas to get you started:
+## Top 5 Console comands 
+| Name | Description | Syntaxis |
+| ----| ---- | ------|
+|**cd**| Use this to navigate through directories| **cd nameDirectoryYouWantToAccess**|
+|**clear**| Use this cmd to erase all the previous code in your console, so you can work in a cleaner environment| **clear** |
+|**ls**|  Use this to see what is inside a directory| **ls**|
+|**>**| Use this to create a file| **> nameFile.extension**|
+|**mv**|Use this to move a file |**mv routeOfNewLocation**|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top 2 Alias commands
+
+
+```sh
+alias .. = cd ..
+So you can save time typing when you want to exit any directory.
+```
+
+```sh
+alias c = clear
+Save time typing.
+```
